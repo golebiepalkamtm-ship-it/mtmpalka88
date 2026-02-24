@@ -1,0 +1,29 @@
+flight_id,season,list_name,flight_date,release_time,release_point,release_lat,release_lon,fanciers,birds_sent,birds_returned,avg_distance_km,lot_dir
+2024-07-21-nr-12-oddzialowa,2024 - golebie dorosle,nr 12 ODDZIALOWA,2024-07-21,05:55:00,CLOPPENBURG III,52.814306,8.191556,57,835,287,536.764,data\lots\2024-07-21-nr-12-oddzialowa
+2023-04-30-nr-1-oddzialowa,2023 - golebie dorosle,nr 1 ODDZIALOWA,2023-04-30,08:31:00,VETSCHAU,51.801667,14.050000,75,3527,3004,130.690,data\lots\2023-04-30-nr-1-oddzialowa
+2023-05-07-nr-2-oddzialowa,2023 - golebie dorosle,nr 2 ODDZIALOWA,2023-05-07,09:15:00,DAHME,51.858917,13.457556,79,3827,2592,166.193,data\lots\2023-05-07-nr-2-oddzialowa
+2023-05-14-nr-3-oddzialowa,2023 - golebie dorosle,nr 3 ODDZIALOWA,2023-05-14,06:31:00,DESSAU,51.897500,12.256944,77,3298,2955,240.788,data\lots\2023-05-14-nr-3-oddzialowa
+2023-05-21-nr-4-oddzialowa,2023 - golebie dorosle,nr 4 ODDZIALOWA,2023-05-21,06:21:00,GARDELEGEN I,52.532750,11.358139,78,3253,2449,327.533,data\lots\2023-05-21-nr-4-oddzialowa
+2023-05-28-nr-5-oddzialowa,2023 - golebie dorosle,nr 5 ODDZIALOWA,2023-05-28,06:00:00,CLOPPENBURG I,52.814306,8.191556,75,2636,1663,535.689,data\lots\2023-05-28-nr-5-oddzialowa
+2023-06-04-nr-6-oddzialowa,2023 - golebie dorosle,nr 6 ODDZIALOWA,2023-06-04,05:45:00,GARDELEGEN II,52.532750,11.358139,76,2542,1939,327.507,data\lots\2023-06-04-nr-6-oddzialowa
+2023-06-11-nr-7-oddzialowa,2023 - golebie dorosle,nr 7 ODDZIALOWA,2023-06-11,05:45:00,CLOPPENBURG II,52.814306,8.191556,71,1663,961,535.847,data\lots\2023-06-11-nr-7-oddzialowa
+2023-06-18-nr-8-oddzialowa,2023 - golebie dorosle,nr 8 ODDZIALOWA,2023-06-18,07:00:00,GARDELEGEN III,52.532750,11.358139,73,2144,1821,327.362,data\lots\2023-06-18-nr-8-oddzialowa
+2025-05-11-nr-3-oddzialowa,2025 - golebie dorosle,nr 3 ODDZIALOWA,2025-05-11,06:30:00,HALLE,51.484972,12.091194,74,3118,2601,237.981,data\lots\2025-05-11-nr-3-oddzialowa
+2025-05-18-nr-4-oddzialowa,2025 - golebie dorosle,nr 4 ODDZIALOWA,2025-05-18,08:20:00,Nordhausen,51.487472,10.830528,71,2689,2137,323.885,data\lots\2025-05-18-nr-4-oddzialowa
+2025-05-24-nr-5-oddzialowa,2025 - golebie dorosle,nr 5 ODDZIALOWA,2025-05-24,06:35:00,HAMM 1,51.704639,7.712361,72,2192,1647,541.458,data\lots\2025-05-24-nr-5-oddzialowa
+2025-05-31-nr-6-oddzialowa,2025 - golebie dorosle,nr 6 ODDZIALOWA,2025-05-31,06:20:00,NORDHAUSEN II,51.487472,10.830528,70,2381,1892,323.894,data\lots\2025-05-31-nr-6-oddzialowa
+2025-06-09-nr-7-oddzialowa,2025 - golebie dorosle,nr 7 ODDZIALOWA,2025-06-09,06:40:00,HAMM II,51.704639,7.712361,68,1878,1635,541.306,data\lots\2025-06-09-nr-7-oddzialowa
+2025-06-14-nr-8-oddzialowa,2025 - golebie dorosle,nr 8 ODDZIALOWA,2025-06-14,05:50:00,HAMM III,51.704639,7.712361,66,1465,801,541.038,data\lots\2025-06-14-nr-8-oddzialowa
+2025-06-22-nr-9-oddzialowa,2025 - golebie dorosle,nr 9 ODDZIALOWA,2025-06-22,05:20:00,NORDHAUSEN III,51.487472,10.830528,69,1605,1113,324.230,data\lots\2025-06-22-nr-9-oddzialowa
+2025-07-06-nr-11-oddzialowa,2025 - golebie dorosle,nr 11 ODDZIALOWA,2025-07-06,05:45:00,NORDHAUSEN IV,51.487472,10.830528,63,1537,1263,323.853,data\lots\2025-07-06-nr-11-oddzialowa
+2024-05-05-nr-1-oddzialowa,2024 - golebie dorosle,nr 1 ODDZIALOWA,2024-05-05,07:10:00,VETSCHAU,51.801667,14.050000,76,3631,2893,130.046,data\lots\2024-05-05-nr-1-oddzialowa
+2024-05-12-nr-2-oddzialowa,2024 - golebie dorosle,nr 2 ODDZIALOWA,2024-05-12,06:30:00,JESSEN,51.798667,12.930528,76,3541,2983,193.772,data\lots\2024-05-12-nr-2-oddzialowa
+2025-04-27-nr-1-oddzialowa,2025 - golebie dorosle,nr 1 ODDZIALOWA,2025-04-27,09:00:00,Lampertswalde O.T: Brockwirz,51.317278,13.621806,74,3210,2563,130.010,data\lots\2025-04-27-nr-1-oddzialowa
+2024-05-26-nr-4-oddzialowa,2024 - golebie dorosle,nr 4 ODDZIALOWA,2024-05-26,07:10:00,GARDELEGEN I,52.532750,11.358139,75,3176,2310,327.289,data\lots\2024-05-26-nr-4-oddzialowa
+2024-05-19-nr-3-oddzialowa,2024 - golebie dorosle,nr 3 ODDZIALOWA,2024-05-19,05:50:00,DESSAU,51.897500,12.256944,72,3137,2522,240.764,data\lots\2024-05-19-nr-3-oddzialowa
+2024-06-03-nr-5-oddzialowa,2024 - golebie dorosle,nr 5 ODDZIALOWA,2024-06-03,07:50:00,CLOPPENBURG I,52.814306,8.191556,70,2548,1090,535.791,data\lots\2024-06-03-nr-5-oddzialowa
+2024-06-09-nr-6-oddzialowa,2024 - golebie dorosle,nr 6 ODDZIALOWA,2024-06-09,06:00:00,GARDELEGEN Ii,52.532750,11.358139,75,2195,1889,327.209,data\lots\2024-06-09-nr-6-oddzialowa
+2024-06-16-nr-7-oddzialowa,2024 - golebie dorosle,nr 7 ODDZIALOWA,2024-06-16,07:45:00,CLOPPENBURG II,52.814306,8.191556,72,1710,938,535.660,data\lots\2024-06-16-nr-7-oddzialowa
+2024-06-23-nr-8-oddzialowa,2024 - golebie dorosle,nr 8 ODDZIALOWA,2024-06-23,06:30:00,GARDELEGEN III,52.532750,11.358139,73,1978,1766,327.488,data\lots\2024-06-23-nr-8-oddzialowa
+2024-07-06-nr-10-oddzialowa,2024 - golebie dorosle,nr 10 ODDZIALOWA,2024-07-06,06:00:00,GARDELEGEN IV,52.532750,11.358139,69,1551,1014,327.481,data\lots\2024-07-06-nr-10-oddzialowa
+2025-05-04-nr-2-oddzialowa,2025 - golebie dorosle,nr 2 ODDZIALOWA,2025-05-04,07:30:00,GRIMMA,51.255611,12.714028,73,3171,2652,190.999,data\lots\2025-05-04-nr-2-oddzialowa

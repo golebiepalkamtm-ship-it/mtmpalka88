@@ -1,0 +1,114 @@
+                               Lista konkursowa:  nr 1 ODDZIALOWA
+
+                                          Sezon:  2024 - golebie dorosle
+
+                                  PZHGP Oddzial:  0489 Kwisa
+
+
+
+                                      Data lotu:  05.05.2024
+
+                           Miejsce wypuszczenia:  VETSCHAU
+
+                              Wspolrzedne geog.:  51*48"06.00'N 14*03"00.00'E
+
+                           Godzina wypuszczenia:  07:10:00
+
+                       Srednia odleglosc z lotu:  130.046 km
+
+                                Liczba hodowcow:  76
+
+                        Liczba wyslanych golebi:  3631
+
+                   Liczba golebi, ktore wrocily:  2893
+
+    Czy lot trwa dluzej niz 1 dobe (pory nocne):  nie
+
+
+
+     Czy lot do Mistrzostw Polski w kategoriach:  nie
+
+                               Lot do kategorii:  A
+
+      Czy lot do Generalnego Mistrzostwa Polski:  nie
+
+                    Czy lot do Intermistrzostwa:  nie
+
+                    Czy lot do MP Super Maraton:  nie
+
+
+
+         Metoda obliczania punktow oddzialowych:  mistrzowska
+
+                     Baza dla listy konkursowej:  20%
+
+                   Punkty oddzialowe tzw. stale:  100 pkt
+
+                Spadek dla punktow oddzialowych:  20%
+
+
+
+                Liczba konk. na bazie 1:5 (20%):  727
+
+                Liczba konk. na bazie 1:4 (25%):  908
+
+                Liczba konk. na bazie 1:3 (33%):  1211
+
+
+
+                  Predkosc najszybszego golebia:  1360.78 m/min
+
+ Predkosc najwolniejszego golebia w konk. (20%):  1189.46 m/min
+
+              Czas przybycia pierwszego golebia:  08:47:09 (05.05.2024)
+
+Czas przybycia ostatniego golebia w konk. (20%):  09:07:37 (05.05.2024)
+
+             Sredni czas trwania konkursu (20%):  0 godz. 13 min. 45 sek.
+
+
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+|                    | Liczba   | Liczba    | Liczba    | Procent   | Procent gol. |
+
+|      Sekcja        | hodowcow | wyslanych | zdobytych | zdobytych | ktore zdobyl |
+
+|                    |          | golebi    | konk      | konk.     | konk.        |
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+| S1 Luban           | 12       | 558       | 126       | 17.33     | 22.58        |
+
+| S2 Grudza          | 11       | 873       | 212       | 29.16     | 24.28        |
+
+| S3 Chmielen        | 13       | 383       | 92        | 12.65     | 24.02        |
+
+| S4 Gryfow          | 14       | 641       | 82        | 11.28     | 12.79        |
+
+| S5 Swieradow       | 12       | 409       | 31        | 4.26      | 7.58         |
+
+| S6 Mirsk           | 14       | 767       | 184       | 25.31     | 23.99        |
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+|              SUMA: | 76       | 3631      | 727       | 100%      |
+
++--------------------+----------+-----------+-----------+-----------+
+
+
+
+
+
+
+
+    ..............................           ......................................
+
+         podpis: rachmistrz                      podpis: vice Prezes d/s lotow
+
+
+
+
++---+----------------------+--+---------+---+---------------+-+----------+-------+-------+-------+-----+------+------+
+
+|   |                      |  |         |   |               | |          | Predk.| Coef. | Pkt   | Pkt | Pkt  | Odleg|

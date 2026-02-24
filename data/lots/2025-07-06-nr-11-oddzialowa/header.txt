@@ -1,0 +1,114 @@
+                               Lista konkursowa:  nr 11 ODDZIALOWA
+
+                                          Sezon:  2025 - golebie dorosle
+
+                                  PZHGP Oddzial:  0489 Kwisa
+
+
+
+                                      Data lotu:  06.07.2025
+
+                           Miejsce wypuszczenia:  NORDHAUSEN IV
+
+                              Wspolrzedne geog.:  51*29"14.90'N 10*49"49.90'E
+
+                           Godzina wypuszczenia:  05:45:00
+
+                       Srednia odleglosc z lotu:  323.853 km
+
+                                Liczba hodowcow:  63
+
+                        Liczba wyslanych golebi:  1537
+
+                   Liczba golebi, ktore wrocily:  1263
+
+    Czy lot trwa dluzej niz 1 dobe (pory nocne):  nie
+
+
+
+     Czy lot do Mistrzostw Polski w kategoriach:  tak
+
+                               Lot do kategorii:  B
+
+      Czy lot do Generalnego Mistrzostwa Polski:  nie
+
+                    Czy lot do Intermistrzostwa:  tak
+
+                    Czy lot do MP Super Maraton:  tak
+
+
+
+         Metoda obliczania punktow oddzialowych:  mistrzowska
+
+                     Baza dla listy konkursowej:  20%
+
+                   Punkty oddzialowe tzw. stale:  100 pkt
+
+                Spadek dla punktow oddzialowych:  20%
+
+
+
+                Liczba konk. na bazie 1:5 (20%):  308
+
+                Liczba konk. na bazie 1:4 (25%):  385
+
+                Liczba konk. na bazie 1:3 (33%):  513
+
+
+
+                  Predkosc najszybszego golebia:  1279.08 m/min
+
+ Predkosc najwolniejszego golebia w konk. (20%):  1170.85 m/min
+
+              Czas przybycia pierwszego golebia:  09:50:35 (06.07.2025)
+
+Czas przybycia ostatniego golebia w konk. (20%):  10:30:46 (06.07.2025)
+
+             Sredni czas trwania konkursu (20%):  0 godz. 23 min. 24 sek.
+
+
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+|                    | Liczba   | Liczba    | Liczba    | Procent   | Procent gol. |
+
+|      Sekcja        | hodowcow | wyslanych | zdobytych | zdobytych | ktore zdobyl |
+
+|                    |          | golebi    | konk      | konk.     | konk.        |
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+| S1 Luban           | 10       | 183       | 44        | 14.29     | 24.04        |
+
+| S2 Grudza          | 10       | 412       | 85        | 27.6      | 20.63        |
+
+| S3 Chmielen        | 10       | 167       | 23        | 7.47      | 13.77        |
+
+| S4 Gryfow          | 12       | 334       | 57        | 18.51     | 17.07        |
+
+| S5 Swieradow       | 11       | 141       | 8         | 2.6       | 5.67         |
+
+| S6 Mirsk           | 10       | 300       | 91        | 29.55     | 30.33        |
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+|              SUMA: | 63       | 1537      | 308       | 100%      |
+
++--------------------+----------+-----------+-----------+-----------+
+
+
+
+
+
+
+
+    ..............................           ......................................
+
+         podpis: rachmistrz                      podpis: vice Prezes d/s lotow
+
+
+
+
++---+----------------------+--+---------+---+---------------+-+----------+-------+-------+-------+-----+------+------+
+
+|   |                      |  |         |   |               | |          | Predk.| Coef. | Pkt   | Pkt | Pkt  | Odleg|

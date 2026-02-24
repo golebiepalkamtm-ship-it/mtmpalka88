@@ -1,0 +1,13 @@
+# Nagłówek lotu
+Data lotu: 01.06.2025
+Miejsce wypuszczenia: Berlin
+Wspolrzedne geog: 52°31'12.0"N 13°24'18.0"E
+Godzina wypuszczenia: 06:00
+Sezon: 2025
+Lista konkursowa: Oddziałowa
+
+# Wyniki przylotów
+# LP Nazwisko_Imie Sekcja WKM Kat Obraczka-Rodowa T Przylot Predkosc Coef Pkt_Oddz2 Pkt_GMP Pkt_Oddz Odleglosc
+   1 Kowalski_Jan           1 123-456 A PL-01-123-4567 1 1-10:30:00 1200.50 1.23 20.00 40.00 20.00 540.50
+   2 Nowak_Piotr            2 234-567 B PL-01-123-4568 1 1-10:35:15 1195.10 2.46 19.95 39.90 19.95 542.10
+   3 Kowalski_Jan           1 123-456 A PL-01-123-4569 1 1-10:40:30 1190.20 3.69 19.90 39.80 19.90 540.50

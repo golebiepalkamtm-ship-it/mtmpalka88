@@ -1,0 +1,8 @@
+{
+  "S1": {"name": "Lubań", "lat": 51.1219, "lon": 15.2878},
+  "S2": {"name": "Grudza", "lat": 50.9886, "lon": 15.4528},
+  "S3": {"name": "Chmieleń", "lat": 51.0084, "lon": 15.5348},
+  "S4": {"name": "Gryfów Śląski", "lat": 51.0310, "lon": 15.42},
+  "S5": {"name": "Świeradów-Zdrój", "lat": 50.9079, "lon": 15.3353},
+  "S6": {"name": "Mirsk", "lat": 50.9701, "lon": 15.3855}
+}

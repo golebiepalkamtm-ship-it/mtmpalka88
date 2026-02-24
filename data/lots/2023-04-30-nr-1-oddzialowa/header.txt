@@ -1,0 +1,144 @@
+                               Lista konkursowa:  nr 1 ODDZIALOWA
+
+                                          Sezon:  2023 - golebie dorosle
+
+                                  PZHGP Oddzial:  0489 Kwisa
+
+
+
+                                      Data lotu:  30.04.2023
+
+                           Miejsce wypuszczenia:  VETSCHAU
+
+                              Wspolrzedne geog.:  51*48"06.00'N 14*03"00.00'E
+
+                           Godzina wypuszczenia:  08:31:00
+
+                       Srednia odleglosc z lotu:  130.690 km
+
+                                Liczba hodowcow:  75
+
+                        Liczba wyslanych golebi:  3527
+
+                   Liczba golebi, ktore wrocily:  3004
+
+    Czy lot trwa dluzej niz 1 dobe (pory nocne):  nie
+
+
+
+     Czy lot do Mistrzostw Polski w kategoriach:  nie
+
+                               Lot do kategorii:  A
+
+      Czy lot do Generalnego Mistrzostwa Polski:  nie
+
+                    Czy lot do Intermistrzostwa:  nie
+
+                    Czy lot do MP Super Maraton:  nie
+
+
+
+         Metoda obliczania punktow oddzialowych:  mistrzowska
+
+                     Baza dla listy konkursowej:  20%
+
+                   Punkty oddzialowe tzw. stale:  100 pkt
+
+                Spadek dla punktow oddzialowych:  20%
+
+
+
+                Liczba konk. na bazie 1:5 (20%):  706
+
+                Liczba konk. na bazie 1:4 (25%):  882
+
+                Liczba konk. na bazie 1:3 (33%):  1176
+
+
+
+                  Predkosc najszybszego golebia:  1654.41 m/min
+
+ Predkosc najwolniejszego golebia w konk. (20%):  1465.67 m/min
+
+              Czas przybycia pierwszego golebia:  09:41:16 (30.04.2023)
+
+Czas przybycia ostatniego golebia w konk. (20%):  10:06:41 (30.04.2023)
+
+             Sredni czas trwania konkursu (20%):  0 godz. 10 min. 10 sek.
+
+
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+|                    | Liczba   | Liczba    | Liczba    | Procent   | Procent gol. |
+
+|      Sekcja        | hodowcow | wyslanych | zdobytych | zdobytych | ktore zdobyl |
+
+|                    |          | golebi    | konk      | konk.     | konk.        |
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+| S1 Luban           | 11       | 512       | 94        | 13.31     | 18.36        |
+
+| S2 Grudza          | 13       | 889       | 260       | 36.83     | 29.25        |
+
+| S3 Chmielen        | 12       | 431       | 65        | 9.21      | 15.08        |
+
+| S4 Gryfow          | 12       | 573       | 83        | 11.76     | 14.49        |
+
+| S5 Swieradow       | 12       | 433       | 82        | 11.61     | 18.94        |
+
+| S6 Mirsk           | 15       | 689       | 122       | 17.28     | 17.71        |
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+|              SUMA: | 75       | 3527      | 706       | 100%      |
+
++--------------------+----------+-----------+-----------+-----------+
+
+
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+|                    | Liczba   | Liczba    | Liczba    | Procent   | Procent gol. |
+
+|    Punkt wkladan   | hodowcow | wyslanych | zdobytych | zdobytych | ktore zdobyl |
+
+|                    |          | golebi    | konk      | konk.     | konk.        |
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+| S1P1 Luban         | 11       | 512       | 94        | 13.31     | 18.36        |
+
+| S2P1 Grudza        | 13       | 889       | 260       | 36.83     | 29.25        |
+
+| S3P1 Chmielen      | 12       | 431       | 65        | 9.21      | 15.08        |
+
+| S4P1 Gryfow        | 12       | 573       | 83        | 11.76     | 14.49        |
+
+| S5P1 Swieradow     | 12       | 433       | 82        | 11.61     | 18.94        |
+
+| S6P1 Mirsk         | 15       | 689       | 122       | 17.28     | 17.71        |
+
++--------------------+----------+-----------+-----------+-----------+--------------+
+
+|              SUMA: | 75       | 3527      | 706       | 100%      |
+
++--------------------+----------+-----------+-----------+-----------+
+
+
+
+
+
+
+
+    ..............................           ......................................
+
+         podpis: rachmistrz                      podpis: vice Prezes d/s lotow
+
+
+
+
++---+----------------------+--+---------+---+---------------+-+----------+-------+-------+-------+-----+------+------+
+
+|   |                      |  |         |   |               | |          | Predk.| Coef. | Pkt   | Pkt | Pkt  | Odleg|
